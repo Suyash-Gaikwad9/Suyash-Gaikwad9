@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**Suyash-Gaikwad9/Suyash-Gaikwad9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my skills and practicing to master those skills..!
+- 🌱 I’m currently learning Web development
+- 👯 I’m looking to collaborate with new programmers whom i know or i dont know
+- 💬 Ask me about Programming and Fitness
+- 📫 How to reach me: https://suyash-gaikwad9.github.io/sg.github.io/  || mail me at suyash.gaikwad21@vit.edu
+- ⚡ Fun fact: I lift 220 ✨ ;-)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<a href="https://www.instagram.com/_gandharvaa_/">
+  <img align="left" alt="Suyash's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+
+<a href="https://www.linkedin.com/in/suyash-gaikwad-46178822a/">
+  <img align="left" alt="Suyash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
