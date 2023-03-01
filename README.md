@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Suyash
 
 
 - 🔭 I’m currently learning new technologies working on my skills and practicing to master those skills..!
@@ -17,3 +17,20 @@
 <a href="https://www.linkedin.com/in/suyash-gaikwad-46178822a/">
   <img align="left" alt="Suyash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
+
+<h3>Lets Connect.. 
+  <a href="https://www.linkedin.com/in/suyash-gaikwad-46178822a/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+  </a>
+</h3>
+
+
+---
+
+
+---
+
+
+# My Contributions
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Suyash-Gaikwad9&theme=radical&hide_border=true)](https://git.io/streak-stats)
