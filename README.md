@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently learning new technologies working on my skills and practicing to master those skills..!
-- 🌱 I’m currently learning Web development.
+- 🌱 I’m currently learning DevOps.
 - 👯 I’m looking to collaborate with new programmers whom i know or i dont know, Actully it dosn't matter lets work together..
 - 💬 Ask me about Programming and Fitness
 - 📫 How to reach me: https://suyash-gaikwad9.github.io/sg.github.io/  || mail me at suyash.gaikwad21@vit.edu
